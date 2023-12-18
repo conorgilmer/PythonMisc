@@ -5,6 +5,14 @@ Just some bits and pieces of code drawing graphs, parsing, file stuff etc.
 - Line graph
 - Bar graph
 - Pie Chart
+  - Simple Pie
+  - Doughnut Pie
+
+## Packages
+- matplotlib
+- numpy
+- Pandas
+
 
 ## Software Used
 - Thonny
