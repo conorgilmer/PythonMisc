@@ -8,6 +8,11 @@ Just some bits and pieces of code drawing graphs, parsing, file stuff etc.
   - Simple Pie
   - Doughnut Pie
 
+## Data Structures
+- Stack
+- Queue
+- Linked Lists
+
 ## Packages
 - matplotlib
 - numpy
