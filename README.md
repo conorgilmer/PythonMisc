@@ -17,7 +17,9 @@ Just some bits and pieces of code drawing graphs, parsing, file stuff etc.
 - matplotlib
 - numpy
 - Pandas
-
+- seaborn
+- plotly
+- Bokeh
 
 ## Software Used
 - Thonny
